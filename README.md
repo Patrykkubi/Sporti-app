@@ -20,7 +20,7 @@ Strona rejestracji wyświetla formularz z czteroma rubrykami, które kolejno wym
 W przypadku gdy zdarzy się, że hasło do konta zostanie zapomniane, istnieje możliwość jego zresetowania, na stronie resetowania hasła. By się tam przenieść, należy kliknąć link z napisem „Forgot your password?”, znajdujący się na stronie logowania obok przycisku login. W rubryce należy wpisać mail, który podany został przy rejestracji konta. Po kliknięciu przycisku o nazwie „Send Password Reset Link”, na adres mailowy użytkownika, zostaje wysłany link do zresetowania hasła. 
 
  
-![image](https://user-images.githubusercontent.com/57746916/170327449-ad3674df-876b-46c1-a2b8-e8ee97aef5a1.png)
+![image](https://user-images.githubusercontent.com/57746916/170328933-cd33a5cc-3756-4831-b5fa-e024933172da.png)
 
 
 Strona wyświetlająca posty, o nazwie Posts ,dostępna jest dla każdego użytkownika, nie wymaga ona bycia zalogowanym w serwisie. Wyświetla ona wszystkie aktualne posty wraz z ich opisami, które zawierają lokację, datę, koszt spotkania, poziom szukanych graczy oraz liczbę szukanych graczy wraz z aktualną liczbą użytkowników, którzy już dołączyli do postu. Poniżej widnieje również informacja zawierająca datę stworzenia postu oraz jego autora. 
